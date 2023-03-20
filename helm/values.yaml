@@ -4,7 +4,7 @@
 
 application:
   author: Harshit
-  name: sampleapi #Aadhar Vault Manager
+  name: nagarrianharshit/nodeapi-helm-aks #Aadhar Vault Manager
   type: api
 
 replicaCount: 1
